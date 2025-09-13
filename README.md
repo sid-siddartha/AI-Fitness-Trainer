@@ -15,6 +15,7 @@ AI/ML: Mediapipe
 Other Tools: OpenAI API / Computer Vision models
 
 Installation & Setup
+
 1️⃣ Clone the repository
 git clone https://github.com/sid-siddartha/ai-fitness-trainer.git
 cd ai-fitness-trainer
