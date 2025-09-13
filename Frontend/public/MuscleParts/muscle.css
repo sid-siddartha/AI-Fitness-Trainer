@@ -1,0 +1,14 @@
+#body_part:hover path {
+    fill: rgb(244, 158, 200) !important;
+    background-color: blueviolet !important;
+}
+
+.total_body{
+    width: 60%;
+    height: 70%;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
