@@ -2,19 +2,19 @@
 
 An AI-powered fitness trainer that provides personalized workout guidance, tracks progress, and helps users stay consistent with their fitness journey.
 
-# 🚀 Features
+🚀 Features
 🤖 AI-generated workout plans tailored to user goals (weight loss, muscle gain, endurance).
 🏃‍♀️ Real-time exercise form correction using computer vision.
 🔉voice commands
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 Frontend: React.
 Backend: Node.js, Express and flask
 Database: MongoDB
 AI/ML: Mediapipe
 Other Tools: OpenAI API / Computer Vision models
 
-# Installation & Setup
+Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/sid-siddartha/ai-fitness-trainer.git
 cd ai-fitness-trainer
